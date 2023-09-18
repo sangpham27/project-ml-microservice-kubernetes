@@ -1,4 +1,4 @@
-![CircleCI](https://circleci.com/github/sangpham27/project-ml-microservice-kubernetes.svg?style=svg&circle-token=c336df610bdddafc0c129128ee0ae9396bc35954)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/sangpham27/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
